@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1544487352 source:d:\codeblocksprojects\sequence\doub\doublyring\main.cpp
+	<iostream>
+	<exception>
+	"DoublyRing.h"
+	"Tests.h"
+	"produce.h"
+
+1543618342 d:\codeblocksprojects\sequence\doub\doublyring\include\sequence.h
+	<iostream>
+
+1543178992 d:\codeblocksprojects\sequence\doub\doublyring\include\split.h
+	"Sequence.h"
+
+1543623087 d:\codeblocksprojects\sequence\doub\doublyring\include\tests.h
+	<sstream>
+	"DoublyRing.h"
+	"ErrorInformation.h"
+
+1541346944 d:\codeblocksprojects\sequence\doub\doublyring\include\errorinformation.h
+	<vector>
+	<string>
+
+1543623025 d:\codeblocksprojects\sequence\doub\doublyring\include\produce.h
+	"DoublyRing.h"
+
+1543272128 d:\codeblocksprojects\sequence\doub\doublyring\include\myinvalidargument.h
+	<string>
+	<exception>
+
+1543619536 source:d:\codeblocksprojects\sequence\doub\doublyring\src\tests.cpp
+	"Tests.h"
+	"produce.h"
+
+1544487286 d:\codeblocksprojects\sequence\doub\doublyring\include\doublyring.h
+	<iostream>
+	"MergeMethod.h"
+
+1544487222 d:\codeblocksprojects\sequence\doub\doublyring\include\mergemethod.h
+	"DoublyRing.h"
+
